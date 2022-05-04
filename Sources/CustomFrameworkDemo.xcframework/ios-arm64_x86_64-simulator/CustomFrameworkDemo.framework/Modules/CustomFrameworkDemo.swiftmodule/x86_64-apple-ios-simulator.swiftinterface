@@ -7,4 +7,5 @@ import Swift
 import _Concurrency
 public struct SDK {
   public static func configure(apiKey: Swift.String)
+  public static func doSomeWork()
 }

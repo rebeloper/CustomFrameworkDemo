@@ -6,5 +6,5 @@ import Foundation
 import Swift
 import _Concurrency
 public struct SDK {
-  public func start()
+  public static func start()
 }
